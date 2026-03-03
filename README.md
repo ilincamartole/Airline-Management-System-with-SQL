@@ -1,5 +1,4 @@
 # Airline-Management-System
-#  Airline Management System (Companie Aeriană)
 
 A robust relational database system designed to handle the complex operations of a commercial airline. [cite_start]This project demonstrates high-level database architecture, from initial conceptual design to **5th Normal Form (5NF)** optimization and advanced SQL analytics[cite: 16, 2251].
 
